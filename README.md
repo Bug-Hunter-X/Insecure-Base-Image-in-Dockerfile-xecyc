@@ -1,0 +1,1 @@
+This repository demonstrates an insecure Dockerfile that uses `ubuntu:latest` as the base image.  Using `latest` is problematic as it can change without notice.  A fixed version uses a specific version for better reproducibility and security.
